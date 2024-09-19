@@ -1,2 +1,3 @@
-# myportfolio
-This is my portfolio website instead of resume
+I’m a passionate Frontend Developer with expertise in React.js and a knack for creating engaging, responsive web applications. With a solid foundation in HTML, CSS, and JavaScript. Whether it’s crafting smooth animations with GSAP or building user-friendly interfaces in React. In addition to my love for code, I also work part-time as a Customer Support Executive at Amazon. This role has sharpened my communication skills and taught me the importance of understanding user needs—insights that I carry over into my development work to create more intuitive and user-centered designs. When I’m not coding or helping customers, you can find me exploring new web trends, experimenting with different frameworks, or just kicking back with a good book. Let’s create something amazing together!
+
+
